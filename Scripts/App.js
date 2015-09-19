@@ -1,6 +1,5 @@
 ﻿'use strict';
 
-
 jQuery(document).ready(function () {
     jQuery(".ms-siteicon-img").attr("src", "/SPalooza2015Demo/images/Sharepointalooza.png");
 });
