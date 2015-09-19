@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="66abf387-3758-4206-8ec5-9cd7c7a28e48" 
+        solutionId="66abf387-3758-4206-8ec5-9cd7c7a28e48" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SPalooza2015Demo"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="dabad7f4-6474-4f82-9885-f4324e36174f" />
+  </features>
+</package>
